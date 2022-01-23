@@ -6,14 +6,15 @@
 
 Hello, this is Seeun Lee, who dreams of becoming a developer. 
 I majored in Computer Engineering and studied Japanese Language and Literature as a minor.
-I have a lot of project experience using Python.
+
 
 
 > Studying with ChatBot
 > Webscraping
 > School Scheduling
 
-
+- 🌱 I’m currently learning ...
+<img src="https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white"/>
 
 <!--
 **seeun98/seeun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
