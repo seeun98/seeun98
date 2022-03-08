@@ -27,7 +27,7 @@ I majored in Computer Engineering and studied Japanese Language and Literature a
 
 
 - 🌱 I’m currently learning ...
-<img src="https://img.shields.io/badge/#007396?style=flat-square&logo=simpleiconjava&logoColor=white"/> 
+
 <!--**seeun98/seeun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
 
 Here are some ideas to get you started:
