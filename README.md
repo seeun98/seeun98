@@ -7,6 +7,9 @@
 <img src="https://img.shields.io/badge/쓰고자하는_텍스트-컬러코드?style=flat-square&logo=simpleicons에서_아이콘이름&logoColor=white"/></a>&nbsp 
 -->
 <!-- <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a> -->
+<!--<a href="https://www.notion.so/a4a726ca64eb497fb06c8306f47aa919?v=f427ab2b950a4d5fb58cd2e9a8a25c83" target="_blank"><img src="https://img.shields.io/badge/notion-purple?style=for-the-badge&logo=appveyor&logo=로고&logoColor=로고색상"/></a> 
+<a href="https://www.instagram.com/bono_codingbook/" target="_blank"><img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=appveyor&logo=로고&logoColor=로고색상"/></a></div> -->
+
 
 Hello, this is Seeun Lee, who dreams of becoming a developer. 
 I majored in Computer Engineering and studied Japanese Language and Literature as a minor.
@@ -14,8 +17,7 @@ I majored in Computer Engineering and studied Japanese Language and Literature a
 
 <div align=center>
 <h1>:star2:Welcome!</h1>
-<a href="https://www.notion.so/a4a726ca64eb497fb06c8306f47aa919?v=f427ab2b950a4d5fb58cd2e9a8a25c83" target="_blank"><img src="https://img.shields.io/badge/notion-purple?style=for-the-badge&logo=appveyor&logo=로고&logoColor=로고색상"/></a> 
-<a href="https://www.instagram.com/bono_codingbook/" target="_blank"><img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=appveyor&logo=로고&logoColor=로고색상"/></a></div>
+
 
 <h2 align=center>CARPE DIEM </h2>
 
