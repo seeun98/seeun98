@@ -43,7 +43,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <div align=left>
-   🌱 Start ! 초보 자바러  
-<img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+   <h2> 🌱 풀스택 가!보!자!고! </h2>
+   
+   <img alt="Java" src ="https://img.shields.io/badge/Java-yellow.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 </div>
