@@ -44,6 +44,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=left>
- 풀스택 가기 위한 첫걸음 .. 같이 자바를 배워보아요 ... 
+   🌱 Start ! 초보 자바러
+ 
+ 
    <img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 </div>
