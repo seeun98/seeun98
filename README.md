@@ -44,8 +44,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=left>
-   🌱 Start ! 초보 자바러
- 
- 
-   <img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+   🌱 Start ! 초보 자바러  
+<img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 </div>
