@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 🌱 I’m currently learning ...
     
     
-  <img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=green"/>
+  <img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 </div>
