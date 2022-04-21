@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 -->
 
 <div align=left>
-   <h2> 🌱 풀스택 가!보!자!고! </h2>
-   
-   <img alt="Java" src ="https://img.shields.io/badge/Java-yellow.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+   <h2> 🌱 FULL STACK! JAVA 가보자고!</h2>
+   <h3><img alt="Java" src ="https://img.shields.io/badge/Java-yellow.svg?&style=for-the-badge&logo=Java&logoColor=black"/>
+      <img alt="Python" src ="https://img.shields.io/badge/Python-skyblue.svg?&style=for-the-badge&logo=Python&logoColor=purple"/></h3>
 </div>
