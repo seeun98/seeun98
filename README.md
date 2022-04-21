@@ -44,8 +44,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align=left>
-🌱 I’m currently learning ...
+    🌱 I’m currently learning ...
     
     
-  <img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
+    <img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
 </div>
