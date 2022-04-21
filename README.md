@@ -28,7 +28,7 @@ I majored in Computer Engineering and studied Japanese Language and Literature a
 
 
 <!--
-- 🌱 I’m currently learning ...
+
 
 **seeun98/seeun98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -43,3 +43,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🌱 I’m currently learning ...   
+  <img alt="Java" src ="https://img.shields.io/badge/Java-3776AB.svg?&style=for-the-badge&logo=Java&logoColor=green"/>
