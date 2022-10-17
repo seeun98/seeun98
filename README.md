@@ -49,8 +49,7 @@ Here are some ideas to get you started:
    <h3><img alt="Java" src ="https://img.shields.io/badge/Java-yellow.svg?&style=for-the-badge&logo=Java&logoColor=black"/>
       <img alt="Python" src ="https://img.shields.io/badge/Python-skyblue.svg?&style=for-the-badge&logo=Python&logoColor=purple"/></h3>
 </div>
-<!--
 <div align=left>
    <h2> 💬 SNS List </h2>
-   <h3><a href="https://www.notion.so/Engineering-Wiki-06c62d851fb14a84a37bc1133218e2b9" target="_blank"><img src="https://img.shields.io/badge/NOTION-green?     style=flat-square&logo=이미지 이름&logoColor=white"/></a></h3>
-</div>-->
+   <h3><a href="https://broadleaf-palm-bbe.notion.site/Engineering-Wiki-25fdbed307b0485092533b667e67ad49" target="_blank"><img src="https://img.shields.io/badge/NOTION-green?     style=flat-square&logo=이미지 이름&logoColor=white"/></a></h3>
+</div>
