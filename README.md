@@ -51,5 +51,5 @@ Here are some ideas to get you started:
 </div>
 <div align=left>
    <h2> 💬 SNS List </h2>
-   <h3><a href="[https://broadleaf-palm-bbe.notion.site/Engineering-Wiki-25fdbed307b0485092533b667e67ad49](https://www.notion.so/5ce4f79771e0435abfd91a5deda17811)" target="_blank"><img src="https://img.shields.io/badge/NOTION-green?     style=flat-square&logo=이미지 이름&logoColor=white"/></a></h3>
+   <h3><a href="https://www.notion.so/5ce4f79771e0435abfd91a5deda17811" target="_blank"><img src="https://img.shields.io/badge/NOTION-green?     style=flat-square&logo=이미지 이름&logoColor=white"/></a></h3>
 </div>
