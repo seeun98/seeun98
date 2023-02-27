@@ -24,8 +24,8 @@ I majored in Computer Engineering and studied Japanese Language and Literature a
 
 ![스펀지밥](https://user-images.githubusercontent.com/56140032/151123566-82fb10f2-0e53-4dc1-9082-451038372baf.gif)
 
-[![seeun98's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seeun98&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seeun98)
-
+<!--[![seeun98's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seeun98&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/seeun98) -->
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=seeun98&langs_count=5&theme=tokyonight)]()
 
 <!--
 
